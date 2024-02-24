@@ -1,16 +1,13 @@
 
 # 403bypasser
 
-## Türkçe
-**403bypasser**, hedef sayfalardaki erişim kontrolü kısıtlamalarını aşmak için kullanılan teknikleri otomatikleştirir. Bu araç geliştirilmeye devam edecektir, katkılara açıktır. 
-
 ## English 
 
 **403bypasser** automates the techniques used to circumvent access control restrictions on target pages. **403bypasser** will continue to be improved and it is open to contributions.
 
 ## Installation
 
-1. Clone the repository to your machine. `git clone https://github.com/yunemse48/403bypasser.git`
+1. Clone the repository to your machine. `git clone https://github.com/Binayak72/Cyber_Heist.git`
 2. Install required modules by running the code `pip install -r requirements.txt`
 3. READY!
 
